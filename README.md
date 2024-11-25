@@ -58,5 +58,4 @@ Im aways learning new things, the list above its a preview what im using or lear
 ### Back End Skills
  - Node
  - Performance Optimizations
- - Deno
  - Relational DataBases (Mysql, Sqlite, Postgres, etc)
