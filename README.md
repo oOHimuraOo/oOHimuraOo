@@ -6,13 +6,13 @@ You can find me in the social medias bellow:
 
 [LinkedIn](https://www.linkedin.com/in/felipe-cerqueira-fernandes-974b4b257/) |
 [Bluesky](https://bsky.app/profile/oohimuraoo.bsky.social)
-<!--
+
 <div align="center">
   <a href="https://github.com/oOHimuraOo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oOHimuraOo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oOHimuraOo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOHimuraOo&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
--->
+
 <div align="center">
   <img align="center" alt="GD" height="50" width="50" src="https://github.com/user-attachments/assets/31e6d9a7-de7a-45b4-84a4-f9bfbbfa601f">
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
